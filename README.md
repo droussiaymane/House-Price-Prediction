@@ -10,6 +10,6 @@
 
 *[data](https://um6p-my.sharepoint.com/:x:/g/personal/aymane_droussi_emines_um6p_ma/ERZ7kwM6N1dBlKjK0YJouEkBzoQ2vDCxq3JVhXJtx5glog?rtime=T7wIOwXQ20g)
 
-
+*[Presentation](https://um6p-my.sharepoint.com/personal/aymane_droussi_emines_um6p_ma/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faymane%5Fdroussi%5Femines%5Fum6p%5Fma%2FDocuments%2FAttachments%2FBlue%20Green%20Corporate%20Real%20Estate%20Presentation%20%282%29%2Epdf&parent=%2Fpersonal%2Faymane%5Fdroussi%5Femines%5Fum6p%5Fma%2FDocuments%2FAttachments)
 
 The Predicting Real Estate Prices in Casablanca project is a comprehensive data science project that aims to develop a predictive model to estimate property prices in Casablanca, Morocco. This project involves web scraping, data cleaning, model selection and training, error analysis, deployment into production, and ongoing monitoring of the predictive model.
