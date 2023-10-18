@@ -1,8 +1,9 @@
 # House-Price-Prediction
 
 <div style="display: flex; justify-content: space-between;">
-  <img width="45%" alt="Image 1" src="https://github.com/droussiaymane/House-Price-Prediction/raw/main/assets/60798100/056edc35-003f-482d-8b71-2ae1918c70dc.png">
-  <img width="45%" alt="Image 2" src="https://github.com/droussiaymane/House-Price-Prediction/raw/main/assets/60798100/e02e40d7-4098-4c1f-ad3b-730f33a0e78d.png">
+<img width="45%" alt="Screenshot 2023-10-18 at 19 18 11" src="https://github.com/droussiaymane/House-Price-Prediction/assets/60798100/e5e81b56-819d-4e61-a83f-94f8784a75d1">
+<img width="45%" alt="Screenshot 2023-10-18 at 19 18 17" src="https://github.com/droussiaymane/House-Price-Prediction/assets/60798100/6eca8b84-0e8f-4960-83ca-3c5659fa510d">
+
 </div>
 
 
